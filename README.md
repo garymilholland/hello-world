@@ -1,4 +1,6 @@
 # hello-world
-First Github Repository
+First Github Repository - changing this line
 
-I'm learning how to use Github.  Finally!
+I'm learning how to use Github.  
+
+Finally!
